@@ -1,21 +1,94 @@
 {
   "projects": [
-    {"title":"Custom Home Exterior","image":"/assets/images/project-01.jpg","alt":"Custom home exterior"},
-    {"title":"Warm Custom Interior","image":"/assets/images/project-02.jpg","alt":"Custom home living and kitchen"},
-    {"title":"Inviting Great Room","image":"/assets/images/project-03.jpg","alt":"Custom great room"},
-    {"title":"Outdoor Living","image":"/assets/images/project-04.jpg","alt":"Custom patio and outdoor living"},
-    {"title":"Commercial Construction","image":"/assets/images/project-05.jpg","alt":"Commercial outdoor construction"},
-    {"title":"Modern Black Custom Home","image":"/assets/images/project-06.jpg","alt":"Modern black custom home exterior"},
-    {"title":"Luxury Primary Bath","image":"/assets/images/project-07.jpg","alt":"Luxury primary bathroom"},
-    {"title":"Custom Sunroom","image":"/assets/images/project-08.jpg","alt":"Custom sunroom"},
-    {"title":"Lakefront Estate","image":"/assets/images/project-09.jpg","alt":"Large lakefront custom estate"},
-    {"title":"Modern Open Living","image":"/assets/images/project-10.jpg","alt":"Modern open living and dining"},
-    {"title":"Lakefront Outdoor Space","image":"/assets/images/project-11.jpg","alt":"Covered lakefront patio"},
-    {"title":"Custom Chef Kitchen","image":"/assets/images/project-12.jpg","alt":"Custom chef kitchen"},
-    {"title":"Contemporary Kitchen","image":"/assets/images/project-13.jpg","alt":"Contemporary custom kitchen"},
-    {"title":"Designer Bathroom","image":"/assets/images/project-14.jpg","alt":"Designer primary bathroom"},
-    {"title":"Bright Primary Suite","image":"/assets/images/project-15.jpg","alt":"Bright primary bathroom"},
-    {"title":"Private Pool Retreat","image":"/assets/images/project-17.jpg","alt":"Private lake home with pool"},
-    {"title":"Sunset Infinity Pool","image":"/assets/images/project-18.jpg","alt":"Infinity pool at sunset"}
+    {
+      "title": "Custom Home Exterior",
+      "image": "/assets/images/project-01.jpg",
+      "alt": "Custom home exterior"
+    },
+    {
+      "title": "Warm Custom Interior",
+      "image": "/assets/images/project-02.jpg",
+      "alt": "Custom home living and kitchen"
+    },
+    {
+      "title": "Inviting Great Room",
+      "image": "/assets/images/project-03.jpg",
+      "alt": "Custom great room"
+    },
+    {
+      "title": "Outdoor Living",
+      "image": "/assets/images/project-04.jpg",
+      "alt": "Custom patio and outdoor living"
+    },
+    {
+      "title": "Commercial Construction",
+      "image": "/assets/images/project-05.jpg",
+      "alt": "Commercial outdoor construction"
+    },
+    {
+      "title": "Modern Black Custom Home",
+      "image": "/assets/images/project-06.jpg",
+      "alt": "Modern black custom home exterior"
+    },
+    {
+      "title": "Luxury Primary Bath",
+      "image": "/assets/images/project-07.jpg",
+      "alt": "Luxury primary bathroom"
+    },
+    {
+      "title": "Custom Sunroom",
+      "image": "/assets/images/project-08.jpg",
+      "alt": "Custom sunroom"
+    },
+    {
+      "title": "Lakefront Estate",
+      "image": "/assets/images/project-09.jpg",
+      "alt": "Large lakefront custom estate"
+    },
+    {
+      "title": "Modern Open Living",
+      "image": "/assets/images/project-10.jpg",
+      "alt": "Modern open living and dining"
+    },
+    {
+      "title": "Lakefront Outdoor Space",
+      "image": "/assets/images/project-11.jpg",
+      "alt": "Covered lakefront patio"
+    },
+    {
+      "title": "Custom Chef Kitchen",
+      "image": "/assets/images/project-12.jpg",
+      "alt": "Custom chef kitchen"
+    },
+    {
+      "title": "Contemporary Kitchen",
+      "image": "/assets/images/project-13.jpg",
+      "alt": "Contemporary custom kitchen"
+    },
+    {
+      "title": "Designer Bathroom",
+      "image": "/assets/images/project-14.jpg",
+      "alt": "Designer primary bathroom"
+    },
+    {
+      "title": "Bright Primary Suite",
+      "image": "/assets/images/project-15.jpg",
+      "alt": "Bright primary bathroom"
+    },
+    {
+      "title": "Private Pool Retreat",
+      "image": "/assets/images/project-17.jpg",
+      "alt": "Private lake home with pool"
+    },
+    {
+      "title": "Sunset Infinity Pool",
+      "image": "/assets/images/project-18.jpg",
+      "alt": "Infinity pool at sunset"
+    },
+    {
+      "title": "test pic",
+      "image": "/assets/images/uploads/screenshot-2026-06-11-150334.jpg",
+      "alt": "test pic"
+    }
   ]
 }
