@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Professional BKC team photo coming soon">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171719"/><stop offset="1" stop-color="#302b25"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#g)"/>
+<g fill="#c9c4ba" opacity=".9">
+<circle cx="360" cy="340" r="92"/><path d="M185 700c18-150 78-235 175-235s157 85 175 235"/>
+<circle cx="600" cy="300" r="105"/><path d="M390 700c20-170 94-265 210-265s190 95 210 265"/>
+<circle cx="840" cy="340" r="92"/><path d="M665 700c18-150 78-235 175-235s157 85 175 235"/>
+</g>
+<line x1="260" y1="760" x2="940" y2="760" stroke="#c99a45" opacity=".8"/>
+<text x="600" y="815" text-anchor="middle" fill="#f5f1e8" font-family="Montserrat,Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="4">PROFESSIONAL TEAM PHOTO</text>
+<text x="600" y="855" text-anchor="middle" fill="#c99a45" font-family="Montserrat,Arial,sans-serif" font-size="21" letter-spacing="5">COMING SOON</text>
+</svg>

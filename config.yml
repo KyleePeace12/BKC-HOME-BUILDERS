@@ -1,0 +1,50 @@
+# BKC Home Builders — private project photo manager
+# FINAL CONNECTION STEP BEFORE CLIENT HANDOFF:
+# Replace YOUR_GITHUB_USERNAME with the GitHub account/org that owns the site repository.
+backend:
+  name: github
+  repo: KyleePeace12/BKC-Home-Builders
+  branch: main
+
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
+
+site_url: "https://bkchomebuilders.netlify.app"
+display_url: "https://bkchomebuilders.netlify.app"
+logo_url: "/assets/images/bkc-logo-new.png"
+
+collections:
+  - label: "Project Gallery"
+    name: "project_gallery"
+    format: "json"
+    editor:
+      preview: false
+    files:
+      - label: "Projects"
+        name: "projects"
+        file: "content/project-gallery.json"
+        fields:
+          - label: "Project Photos"
+            name: "projects"
+            widget: "list"
+            label_singular: "Project Photo"
+            summary: "{{fields.title}}"
+            collapsed: true
+            minimize_collapsed: true
+            add_to_top: false
+            fields:
+              - label: "Project / Photo Title"
+                name: "title"
+                widget: "string"
+                hint: "This appears below the photo on the Projects page."
+              - label: "Photo"
+                name: "image"
+                widget: "image"
+                choose_url: false
+                media_library:
+                  config:
+                    max_file_size: 8000000
+              - label: "Image Description"
+                name: "alt"
+                widget: "string"
+                hint: "A short description for accessibility, such as 'Lakefront custom home exterior'."

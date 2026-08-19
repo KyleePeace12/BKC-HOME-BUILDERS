@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171719"/>
+      <stop offset="1" stop-color="#2b2b2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="400" cy="350" r="145" fill="#c9c4ba" opacity=".92"/>
+  <path d="M155 835c18-188 110-295 245-295s227 107 245 295" fill="#c9c4ba" opacity=".92"/>
+  <rect x="115" y="850" width="570" height="1" fill="#c99a45" opacity=".75"/>
+  <text x="400" y="905" text-anchor="middle" fill="#f5f1e8" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" letter-spacing="3">PROFESSIONAL HEADSHOT</text>
+  <text x="400" y="945" text-anchor="middle" fill="#c99a45" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4">COMING SOON</text>
+</svg>
